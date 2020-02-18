@@ -1,0 +1,6 @@
+[submodule "sourcelinka"]
+    path = sourcelinka
+    url = ../sourcelinka.git
+[submodule "sourcelinkb"]
+    path = sourcelinkb
+    url = ../sourcelinkb
