@@ -1,0 +1,9 @@
+*/x64/*
+*Debug/
+*Release/
+*/Debug/*
+*/Release/*
+*/obj/
+*.suo
+*.user
+packages/
